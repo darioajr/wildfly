@@ -6,3 +6,4 @@ ENV JAVA_OPTS $JAVA_OPTS -Dsun.security.ssl.allowUnsafeRenegotiation=false -Dsun
 
 # Define default language
 ENV JAVA_OPTS $JAVA_OPTS -Duser.language=en"
+
